@@ -344,6 +344,20 @@ private extension Game {
             positionIsThreatened(Position(x: $0, y: kingsRow), by: this.color.other)
         })
     }
+    
+    
+    // Starting here
+    func evaluationFunction(state:GameState)->Int{
+        // evaluate the state and return a score.
+        return 0
+    }
+    
+    func minimaxAI() -> Int{
+        
+        
+        // We're going to evaluate a state and return a the highest score at the root
+        return 0
+    }
 }
 
 private extension Board {
