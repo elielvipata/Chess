@@ -12,7 +12,7 @@ Swift Chess
 - Forked from 
 Nick Lockwood @nicklockwood
 
-This is a simple chess game for iPhone and iPad, designed for novice players. That I'll be using as an artificial intelligence project
+This is a simple chess game for iPhone and iPad, designed for novice players that I'll be using for an artificial intelligence project where I'll be messing around with different heuristic and search approaches for playing chess.
 
 Algorithms Implemented:
 - [ ] Basic Reflex -  From original code with a few changes to accomadate newer algorithms
